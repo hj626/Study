@@ -35,14 +35,17 @@
 - [x] ~~**03_Loops**: 반복문 (for, while)을 통한 데이터 처리~~
 - [x] ~~**04_Functions**: 코드의 모듈화와 재사용성 학습~~
 - [x] ~~**05_Arrays**: 동일 자료형의 묶음 관리와 평균 계산~~
-- [ ] **06_Pointers**: 직접적인 메모리 제어와 주소값 이해
+- [ ] **06__Strings**: 문자열 처리 및 문자 배열 이해
+- [ ] **07_Pointers**: 직접적인 메모리 제어와 주소값 이해
+- [ ] **08_Structs**: 사용자 정의 데이터 구조 설계
+- [ ] **09_File_IO**: 파일 입출력을 통한 데이터 저장
 
 ### 🔹 [Phase 2] C# 입문 (2~3주) - "현대적 개발 패러다임"
-- [ ] **07_CSharp_Fundamentals**: C# 기본 문법 및 .NET 환경 적응
-- [ ] **08_OOP_Classes**: 객체지향 프로그래밍(OOP)의 심화 이해
+- [ ] **10_CSharp_Fundamentals**: C# 기본 문법 및 .NET 환경 적응
+- [ ] **11_OOP_Classes**: 객체지향 프로그래밍(OOP)의 심화 이해
 
-### 🔹 [Phase 3] 통합 프로젝트 (3~4주) - "기술의 융합"
-- [ ] **09_Project**: [C/C# Client] ↔ [Spring Boot API] ↔ [RAG AI] 통합 서비스 구축
+### 🔹 [Phase 3] 통합 프로젝트 (3주) - "기술의 융합"
+- [ ] **12_Project**: [C/C# Client] ↔ [Spring Boot API] ↔ [RAG AI] 통합 서비스 구축
 ---
 
 ## 🔗 관련 학습 기록 (Thought Process)
